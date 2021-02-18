@@ -5,9 +5,9 @@
 -->
 
 
-- 🔭 I’m currently working a Fresh gradute Cs student
-- 🌱 I’m currently learning GraphQl/Typescript and Docker
-- ⚡ Fun fact: I Problem solving reading and Time travel movies/series
+- :anchor: I’m currently working a Fresh gradute Cs student.
+- :art: I’m currently learning GraphQl/Typescript and Docker.
+- ⚡ Fun fact: I love Problem solving,reading and Time travel movies/series.
 <!-- Markdown -->
 #### Here's a joke you didn't ask for:
 
